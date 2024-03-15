@@ -5,9 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Overview
 
-This example showcases my approach to building React Redux projects, emphasizing the seamless integration of Redux with TypeScript. The project template serves as a blueprint for implementing an efficient development workflow in future projects.
+This example showcases my approach to building React Redux projects. The project template serves as a blueprint for implementing an efficient development workflow in future projects.
 
-Although the application maintains a minimalist design, its primary objective is to demonstrate the practical synergy between Redux and TypeScript. Users engage with a simple text input field to search for package names. Upon submission, the application queries the NPM API to retrieve relevant packages, which are then displayed on the screen.
+Although the application maintains a minimalist design, its primary objective is to demonstrate the practical implementation of Redux store with TypeScript. Users engage with a simple text input field to search for package names. Upon submission, the application queries the NPM API to retrieve relevant packages, which are then displayed on the screen.
 
 Despite its simplicity, the project exemplifies a scalable approach to integrating Redux and TypeScript in modern frontend applications. The accompanying README provides comprehensive instructions for project setup and dependency installation, laying a solid foundation for building similar projects.
 
